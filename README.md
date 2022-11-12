@@ -1,6 +1,6 @@
 - 💬 Olá! Me chamo Guilherme, um jovem com 20 anos com um sonho de me tornar um fullstack developer e gaming developer. Até o momento sou front-end developer, porém contiuo estudando para alcançar meu sonho.
 - 🔭 Hoje trabalho com front-end
-- 🌱 Estudando Back-end e desenvolvimento mobile
+- 🌱 Estudando Node.js e React
 - 📫 Contate-me no e-mail: guilhermecostaassis00@gmail.com
 - 😄 Pronouns: Ele/Dele
 
